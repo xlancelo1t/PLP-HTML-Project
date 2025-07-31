@@ -20,9 +20,6 @@ This project is a beginner-friendly demonstration of HTML5 semantic elements, ac
 ## File Structure
 
 - `index.html` — Main HTML file demonstrating all features.
-- `Anotherpage.html`, `first_webpage.html`, `myindex.html` — Additional HTML files (not covered in this README).
-- `Lonely mountain.jpg` — Example image (not directly referenced in `index.html`).
-- `Python/Intro.py` — Example Python file (not related to the HTML assignment).
 
 ## How to Use
 
